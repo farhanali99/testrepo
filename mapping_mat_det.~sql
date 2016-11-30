@@ -1,0 +1,42 @@
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104693, 'ApplicantDataReuseRequired', '0', 1, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104694, 'ApplicationTypeId', '0', 2, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104695, 'CheckViolation', '0', 3, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104696, 'EntityId', '1', 4, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104697, 'FormId', '', 5, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104698, 'IsDataChaged', '', 15, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104699, 'Quota', '0', 6, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104700, 'ResolveSubType', '0', 7, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104701, 'SRID', '83', 8, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104702, 'SponsorDataReuseRequired', '0', 9, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104703, 'TargetRoute', '1', 10, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104704, 'ViolationWarning', '0', 11, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104705, 'VisaTypeId', '0', 12, null, 3846);
+
+insert into mapping_matrix_item_detail (ID, KEY, VALUE, TYPE, DESCRIPTION, MAPPING_MATRIX_ITEM_ID)
+values (104706, 'WorkflowId', '47', 13, null, 3846);
+
